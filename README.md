@@ -15,6 +15,7 @@ Customize the script by modifying the variables, paths, or algorithms to align w
 <li>Run the script by executing .\file_monitoring.ps1 in the PowerShell terminal.</li>
 <li>The script will calculate the hash for each file and store them in the baseline.txt file.</li> 
 </ul>
+
 **Option B: Monitoring Files with Saved Baseline**
 <ul>
 <li>Clone or download the repository containing the File Monitoring Tool.</li>
