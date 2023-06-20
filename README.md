@@ -3,11 +3,12 @@
 The Windows-IntegrityChecker is a PowerShell script that allows you to monitor changes in files within a specified directory. It helps you detect new files, file modifications, and deleted files by comparing their current hash values with a stored baseline.
 
 **Prerequisites**
-PowerShell
-Cloned or downloaded copy of this repository in your local machine.
-Open a PowerShell terminal and navigate to the repository directory.
-Customize the script by modifying the variables, paths, or algorithms to align with your specific needs.
-
+<ul>
+<li>PowerShell</li>
+<li>Cloned or downloaded copy of this repository in your local machine.</li>
+<li>Open a PowerShell terminal and navigate to the repository directory.</li>
+<li>Customize the script by modifying the variables, paths, or algorithms to align with your specific needs.</li>
+</ul>
 **Option A: Collecting a New Baseline**
 <ul>
 <li>Ensure you have a folder named "Files" in the same directory as the PowerShell script.
