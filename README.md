@@ -1,4 +1,4 @@
-![image](https://github.com/Dessmondd/Windows-IntegrityChecker/assets/97458634/53a512f6-2229-4d8e-b07f-9784eddd015c)# Windows-IntegrityChecker
+# Windows-IntegrityChecker
 
 The Windows-IntegrityChecker is a PowerShell script that allows you to monitor changes in files within a specified directory. It helps you detect new files, file modifications, and deleted files by comparing their current hash values with a stored baseline.
 
